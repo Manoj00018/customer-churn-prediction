@@ -2,8 +2,7 @@
 
 Predicting which telecom customers are about to cancel their service ("churn"), so the business can step in **before** they leave. Keeping an existing customer is far cheaper than winning a new one, so even a rough early-warning model is genuinely valuable.
 
-> 📺 **Video walkthrough:** _add your YouTube link here_
-
+> 📺 **Video walkthrough:** https://www.youtube.com/watch?v=IUOKT-ZLd1c
 ---
 
 ## 📊 The Dataset
